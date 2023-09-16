@@ -4,7 +4,3 @@ quantidade e uma função callback que aplica o desconto e devolve o valor atual
 
 import PromptSync from "prompt-sync";
 const prompt = PromptSync()
-
-function calcularPreçoComDesconto(a, b, c, callback) {
-    
-}
